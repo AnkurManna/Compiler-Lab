@@ -1,0 +1,3 @@
+LEX is a tool used to generate a lexical analyzer. This document is a tutorial for the use of LEX for ExpL 
+Compiler development. Technically, LEX translates a set of regular expression specifications (given as input
+in input_file.l) into a C implementation of a corresponding finite state machine (lex.yy.c). This C program,
